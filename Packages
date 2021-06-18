@@ -1,0 +1,16 @@
+Package: com.telagba.app
+Architecture: iphoneos-arm
+Version: 2.1.7
+Section: Applications
+Maintainer: 0xy5auc3
+Depends:
+Filename: ./debians/com.telagba.app.deb
+Size: 16274664
+MD5sum: 814dd4d8f1cdd51dfb05ac68f18fed7a
+SHA1: 6db93781820104f362301035ecdb3ef8230b9131
+SHA256: 35e556d2344bc665404dd4593edaa0028dd99dd5509296dded3c987846ff72c1
+SHA512: 925493fe4885df5cbb7fe2164722d0fd692634ddd727fdfc4e3bff54fa7027a1b08c683225fefd87fbb9be6ab5f3135f47e7a5f5c3b6b968943f689bdef82494
+Description: Tela GBA - GBA and GBC emulator
+Name: Tela GBA
+Author: Isaac Brown
+
