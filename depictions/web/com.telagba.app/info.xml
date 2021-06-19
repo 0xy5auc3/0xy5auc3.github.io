@@ -22,13 +22,16 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>This is a description for screenshot 1.</description>
+			<image>ss1.png</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
+			<description>This is a description for screenshot 2.</description>
+			<image>ss2.png</image>
+		</screenshot>
+		<screenshot>
+			<description>This is a description for screenshot 3.</description>
+			<image>ss3.png</image>
 	</screenshots>
 	<changelog>
 		<change>Second release</change>
