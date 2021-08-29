@@ -1,8 +1,8 @@
 Architectures: iphoneos-arm
 Codename: OXYGENSAUCE
 Components: main
-Date: Fri, 18 Jun 2021 20:52:50 +0000
-Description: 0xy5auc3's Personal Repo!
+Date: Sun, 29 Aug 2021 22:28:17 +0000
+Description: 0xy5auc3's Personal Repository!
 Label: 0xy5auc3's Repo
 Origin: 0xy5auc3's Repo
 Suite: stable
@@ -10,28 +10,28 @@ Version: 1.0
 MD5Sum:
  a485c7cff72fb0f9ea971a663aa4fc03              553 Packages
  fe4dc0b23c1266c2924a13d5f0f06291              435 Packages.bz2
- c01c701da63c046ce4f324643d6e2bd8              410 Packages.gz
+ 4d21c1f92d24f19dc0615308422fbdc4              410 Packages.gz
  57f99f6f5cb118980c1dbb3f6f41d769              484 Packages.xz
  6bd27c90877717091e70ad067fc71a5e              406 Packages.zst
- 2d4aa647fe2445f52a1b264a9c9aa89d              236 Release
+ 2f77c33fe55fc330f521f86b82b66da3              224 Release
 SHA1:
  43501748210091d5278e2f9b3ac9886ba6d06d10              553 Packages
  4676fcda968bb73980b493809edf4bfab2fd9a0b              435 Packages.bz2
- dfbdd40332c1691bf62eba21f2cca6edc8464730              410 Packages.gz
+ 6079a357dced675797a4231f65b3341cb38e04b9              410 Packages.gz
  840e3584fbaa133547634bca416e7ab40283de82              484 Packages.xz
  f6e496b09fe6bf02c9a4b80f480a9aca75c1bccb              406 Packages.zst
- 482324dd749717002a562f2aba7e788b470dc701              236 Release
+ b1a10ff9be1e3081f50a73b2e18a3a33ac5764c1              224 Release
 SHA256:
  e051a0bdd99823e643718b1adc6aa834f6b09d43a81cc2fe56d69cdd4dc48ec5              553 Packages
  65df278a1c98e86088e5801bdf1bb6c63c551945cdecaf6ea5aae936ba7edb5f              435 Packages.bz2
- bfb2abb028463c1190ef60d056ff98d68ffc93336643db5a43862eee9b30190e              410 Packages.gz
+ 8adad5423e2b2e6fa2dae1549890f8efaa86556730a22570fafca3851aa383cc              410 Packages.gz
  a855c4a65517e95719a64fddec11a404acf65db3c5fb5ccf6c4dccd7a81bb554              484 Packages.xz
  8bf5f8c57f14224f53b29e3ffad3052216911389d0e3394962e31f69164a5979              406 Packages.zst
- bf5707e3b48567e4897ab63326fd47e54cb7c48d56a00956d827fff9ec725f55              236 Release
+ a6c904993f745683c8bbbc821f78641201ffd1c201fbdc0cf5a7cb60f261aa80              224 Release
 SHA512:
  1d3244a3966803d81cd41a423781d34dfa71b56ab97127346c15a36d7eba065a523a61252af7bdf3a084cae4e8daf3571b494cd34e5141b1b7a7f7966ac8d55d              553 Packages
  90c74232ead0f1e501200800767895a048d5d9be2cc690da7d550db0c78e3a6f8f4e786fbd22e0f228aa1ba0c7457b128aa7945691e46edcddfc2b8f333e902d              435 Packages.bz2
- f60e158e5b7149ed7e753eebe3d3c767bc7f32d6daf1f2937dc707e601408c813b0015bb07a030fdd2725e0df4e48b1777720c1318ba73258b69546f19a504fc              410 Packages.gz
+ adbc736b8212af625dffdd230be72f4dd4f4e61c584499d408222a9d3f5845c0cbaaf375f04526be7451550be0db0901dea33a55df1204b8393aa956a91adcca              410 Packages.gz
  ae46204e777cf0d9b6a05983d17bc49f719ad25c57b88595a7b3a2cbfbd3811acf411a0bf5e70165d68e2b18c68a5940d58d114a2144f9027181586b8b424fa8              484 Packages.xz
  a09b372960753e0dd9f7b2d98d4f2704a35e1beffa8fd524345303f05ee2dc2c35bb102b7004232b5d2e7f8bb0e89f794dbcf59ea24cd79bf1f43b21328b770c              406 Packages.zst
- b0e469781cd28f80bb9f10cca3f557b62db2fde0e00c5772c8bf5e4a3df9eecdb683847cce14d37ac850740c500a12f40eb335c21da3c78a99448ff999f73561              236 Release
+ d83dc290f212cd9fa3e3dc2c372180f0b0ac74264141af5ba7f7ec55b373c5a632ae65c536b379d60f0583eefaf52657067baa69c768d2f5b431ea6605000e35              224 Release
